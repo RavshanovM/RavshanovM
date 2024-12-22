@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RavshanovM
-- 👀 I’m interested in QA engineering and Data Science
+- 👀 I’m interested in AI and Data Science
 - 🌱 I’m currently learning python
     maybe later SQL, and R
 - 💞️ I’m looking to collaborate on ...
